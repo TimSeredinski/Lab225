@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f9f4839-2d06-4add-8480-9385d0dce6b4" name="Default Changelist" comment="Updates">
+      <change beforePath="$PROJECT_DIR$/../Concurrency/Task-4/src/com/epam/mentoring/BlockingObjectPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Concurrency/Task-4/src/com/epam/mentoring/BlockingObjectPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FilesInJava/Task-2/src/main/java/com/epam/mentoring/runner/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FilesInJava/Task-2/src/main/java/com/epam/mentoring/runner/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java 8 (Lambdas &amp; Streams)/Task-5/src/com/epam/mentoring/runner/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java 8 (Lambdas &amp; Streams)/Task-5/src/com/epam/mentoring/runner/Runner.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aRUatddOovfo4kxFeXiIB79EXw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SpringBootJpaH2Application">
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.epam.travel_agency.Runner" />
+      <module name="Jpa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.travel_agency.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootJpaH2Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.epam.travel_agency.SpringBootJpaH2Application" />
+      <module name="Jpa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.travel_agency.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountryServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Jpa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.travel_agency.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.travel_agency.service" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.travel_agency.service.CountryServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SpringBootJpaH2Application" />
+        <item itemvalue="Application.Runner" />
+        <item itemvalue="JUnit.CountryServiceTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f9f4839-2d06-4add-8480-9385d0dce6b4" name="Default Changelist" comment="" />
+      <created>1586697966418</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586697966418</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Updates">
+      <created>1593360674817</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593360674817</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updates" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/epam/travel_agency/dao/impl/AccountRepository.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/epam/travel_agency/DataInit.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
