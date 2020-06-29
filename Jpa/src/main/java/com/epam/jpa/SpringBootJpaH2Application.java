@@ -1,4 +1,4 @@
-package com.epam.travel_agency;
+package com.epam.jpa;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.epam.travel_agency.entity;
+package com.epam.jpa.entity;
 
 /**
  * @author tsimafei.seradzinski

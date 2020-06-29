@@ -1,10 +1,11 @@
-package com.epam.travel_agency.dao;
+package com.epam.jpa.dao;
 
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 
-import com.epam.travel_agency.entity.Account;
-import com.epam.travel_agency.entity.AccountID;
+import com.epam.jpa.entity.Account;
+import com.epam.jpa.entity.AccountID;
+
 
 /**
  * @author tsimafei.seradzinski

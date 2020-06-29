@@ -1,4 +1,4 @@
-package com.epam.travel_agency.entity;
+package com.epam.jpa.entity;
 
 import java.io.Serializable;
 
@@ -9,6 +9,8 @@ import lombok.NoArgsConstructor;
 import lombok.Setter;
 import lombok.ToString;
 
+import javax.persistence.Embeddable;
+
 /**
  * @author tsimafei.seradzinski
  */
@@ -18,6 +20,7 @@ import lombok.ToString;
 @AllArgsConstructor
 @EqualsAndHashCode
 @NoArgsConstructor
+@Embeddable
 public class PostID implements Serializable
 {
 	private String postID;
